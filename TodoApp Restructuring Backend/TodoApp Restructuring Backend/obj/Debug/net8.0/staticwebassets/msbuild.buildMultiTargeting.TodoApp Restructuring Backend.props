@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TodoApp Restructuring Backend.props" />
+</Project>
